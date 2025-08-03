@@ -1,6 +1,6 @@
 # cardataset-cleaning
 Welcome to my GitHub-repo !
-This would be my first project on this platform and would like to brief you about this project.
+This would be my first project on this platform and would like to brief you about.
 This is a DATA-CLEANING & PRE-PROCESSING project, where i had worked on a cardataset csv file.
 I have given a brief description of all the operations i performed in my editor.
 The operations consists of :-  
