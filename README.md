@@ -8,5 +8,6 @@ The operations consists of :-
 -> Handling Outliers using IQR & z-score (or direct) method.
 -> Scaling of datas using Standardization & Normalization.
 -> Removal of duplicate rows of datas.
+
 Hope my FELLOW CODERS find my project helpful !!
 Happy coding!
